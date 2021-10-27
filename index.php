@@ -163,7 +163,7 @@
             <section id="services">
                 <div class="container">
                     <header class="section-header wow fadeInUp">
-                        <h3>What We Do</h3>
+                        <h3>Services</h3>
                         <p>Energreen invests its development capital and resources in the assessment and technical studies to identify viable projects that address the power needs of qualified off-takers.</p>
                     </header>
                     <div class="row">
@@ -232,8 +232,6 @@
                         <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
                         <h4 class="title"><a href="">Grid Integration Engineering</a></h4>
 
-
-
                         </div>
                         <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
                         <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
@@ -242,12 +240,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
                         <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-                        <h4 class="title"><a href="">Grid Reliability Solutions</a></h4>
-                        </div>
-
-                         <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-                        <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-                        <h4 class="title"><a href="">Develop, Construct, Own, and Operate Island Power Plants</a></h4>
+                        <h4 class="title"><a href="">Grid reliability solutions</a></h4>
                         </div>
                     </div>
                 </div>
@@ -332,7 +325,6 @@
                                 <li>Service: Base-Load power at 69kv</li>
                                 <li>Projected Completion: December 2020</li>
                                 <li>Status: Permitting and Technology Choice. Site Acquired</li>
-                                <li>Projected Completion March 2023</li>
                             </ul>           
                         </div>
                     </div>      
@@ -346,13 +338,6 @@
                                 </center>
                             </div>
                             <h5 class="title"><a href="#">4mw HFO Diesel Project in Oriental Mindoro</a></h5>
-                             <ul style='font-size: 14px'>  
-                                <li>9.7mw HFO diesel power plant
-                                    Base-load, Commercial Operation in July 2020
-                                 Pinamalayan Town</li>
-                                 <li>4mw biomass plant
-                                    Completion March 2022</li>
-                            </ul>       
                         </div>
                     </div>
                     <div class="col-md-3 wow fadeInUp" data-wow-delay="0.3s">
@@ -403,13 +388,7 @@
                             <div class="contact-email">
                             <i class="ion-ios-email-outline"></i>
                             <h3>Contact Person</h3>
-                            <p><strong>Energreen Power Inter-Island</strong></p>
-                            <p><a href="mailto:energreenpower@yahoo.com">energreenpower@yahoo.com</a></p>
-                              <br>
-                            <p><strong>Central Negros Power Reliability Inc.</strong></p>
-                            <p><a href="mailto:mba_energreen2013@yahoo.com">mba_energreen2013@yahoo.com</a></p>
-                                <br>
-                             <p><strong>Mindoro Harvest Energy Corp.</strong></p>
+                            <p>Ms. Arachelle A. Galban</p>
                             <p><a href="mailto:ara.energreen@gmail.com">ara.energreen@gmail.com</a></p>
                             </div>
                         </div>
